@@ -5,6 +5,7 @@ Projects included in this repository include:
 Calculating Euler's Number
 
 Calculating Fibonacci Sequence 
+
 Distance between 2 cities using GeoCoder library
 
 Some example project ideas inspired from:
